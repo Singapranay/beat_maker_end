@@ -1,5 +1,3 @@
-:
-
 🥁 Beat Maker (JavaScript)
 A simple Beat Maker built with JavaScript that lets users create, play, and loop custom beats in the browser using an interactive grid interface. No external libraries – just HTML, CSS, and JavaScript!
 
